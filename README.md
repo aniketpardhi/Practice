@@ -1,1 +1,1 @@
-# Practice
+Random color generator
