@@ -1,1 +1,1 @@
-Random color generator
+#1:Random color generator
